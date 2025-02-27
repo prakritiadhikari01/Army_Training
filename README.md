@@ -1,4 +1,4 @@
-# 🪖 Army Training App 🇺🇸
+# 🪖 Army Training App
 
 Welcome to the **Army Training App**, a Flutter-based mobile application designed to provide comprehensive training and information for army personnel and enthusiasts. 💪 The app connects users to a variety of army services, branches, FAQs, and contact information through online APIs.
 
