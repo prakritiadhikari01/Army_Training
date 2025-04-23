@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(
-        primarySwatch: Colors.green, // Set the primary color
+        primarySwatch: Colors.green , // Set the primary color
         primaryColor: Colors
             .green[900], // Set a specific shade of green as the primary color
       ),
